@@ -1,7 +1,7 @@
 <h1>Hotline Kirow </h1>
 
 Игра представляет собой копию культовой Hotline Maiami. В игре повторены основные механики из игры-оригинала.
-Проект написан на чистом c++, без игрового движка, с использованием библиотек SFML для работы с графикой, и tinuXML предоставляющей программный интерфейс для работы с XML-файлами.
+Проект написан на C++, без игрового движка, с использованием библиотек SFML для работы с графикой, и tinuXML предоставляющей программный интерфейс для работы с XML-файлами.
 В репозитории есть актуальный для сборки с использованием Visual studio проекта версии библиотек.
 
 В процессе создания игры был с нуля написан двусвязный список, алгоритм Брезенхема, а так же другие классические алгоритмы.
@@ -18,7 +18,9 @@
 
 <h2>Скриншоты игрового процесса:</h2>
 
-<img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/2.png" width=50% height=50%><img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/5.png" width=50% height=50%><img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/4.png" width=50% height=50%><img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/8.png" width=50% height=50%>
+<img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/2.png">
+<img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/8.png" width=60% height=60%>
+<img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/4.png">
 
 <h2>Прискорбное поражение: </h2>
 

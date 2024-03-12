@@ -26,10 +26,17 @@
 
 ![alt text](https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/9.png)
 
+<h2>Сладкая победа: </h2>
+
+![alt text](https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/11.png)
+
 <h2>Пауза: </h2>
 
 ![alt text](https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/3.png)
 
+<h2>Рекорды: </h2>
+
+<img src="https://github.com/ArseniLuchinin/HotlineKirow/blob/master/ImgToReadme/10.png">
 
 <h3>Как собрать</h3>
 
